@@ -1,0 +1,13 @@
+body {
+padding-left: 40px;
+}
+#text_images_and_result {
+padding-top: 10px;
+padding-bottom: 10px;
+border: 1px;
+box-shadow: 10px 5px 5px grey;
+border-radius: 25px;
+width:400px;
+background-color: rgb(255, 223, 195);
+padding-left:20px;
+}
